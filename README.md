@@ -1,2 +1,2 @@
-# Simplewebsite
-Simplewebsite
+# Samplewebsite
+Samplewebsite
